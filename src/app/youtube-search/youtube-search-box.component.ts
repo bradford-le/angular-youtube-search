@@ -21,7 +21,7 @@ import 'rxjs/add/operator/switch';
 @Component({
   'selector': 'app-youtube-search-box',
   'template': `
-    <input type="text" placeholder="Search" autofocus>
+    <input type="text" placeholder="Try typing 'cats'" autofocus>
   `
 })
 
